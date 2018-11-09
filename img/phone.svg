@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 50.773938 49.763499"
+   version="1.1"
+   id="svg4520"
+   sodipodi:docname="phone.svg"
+   inkscape:version="0.92.1 r15371"
+   width="50.773937"
+   height="49.7635">
+  <metadata
+     id="metadata4524">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>phone</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="756"
+     inkscape:window-height="848"
+     id="namedview4522"
+     showgrid="false"
+     inkscape:zoom="5.0459696"
+     inkscape:cx="25.343974"
+     inkscape:cy="24.878529"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4520"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4510">
+    <style
+       id="style4508">.cls-1,.cls-2{fill:none;stroke:#000;stroke-width:2px;}.cls-1{stroke-linejoin:round;}.cls-2{stroke-miterlimit:10;}</style>
+  </defs>
+  <title
+     id="title4512">phone</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     style="fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(1.443974,1.4999727)"
+     inkscape:export-xdpi="64.260002"
+     inkscape:export-ydpi="64.260002">
+    <g
+       id="phone"
+       style="fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         class="cls-1"
+         d="m 11.17,17.49 5,-4.81 a 2,2 0 0 0 0.28,-2.53 L 10.24,1 A 11.22,11.22 0 0 0 2.47,6.81 c -2.47,4.76 -3.28,14.55 9.78,27.6 13.06,13.05 23.81,12.41 28.58,9.93 a 10.89,10.89 0 0 0 6,-7.1 l -8.73,-6 a 2,2 0 0 0 -2.37,0.19 l -0.8,0.63"
+         id="path4514"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         class="cls-2"
+         d="M 30.23,36 A 83.91,83.91 0 0 1 18.87,26.63 71.51,71.51 0 0 1 10.72,16.9 37.23,37.23 0 0 1 8.47,12.9 L 7.75,11.15"
+         id="path4516"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
